@@ -1,7 +1,3 @@
-Here’s a professional README file for your Password Strength Checker app:
-
----
-
 # Password Strength Checker 🔑🔒
 
 ## Overview
